@@ -1,2 +1,2 @@
 # pg_iconv
-PostGreSQL wrapper for iconv library
+PostGreSQL extension wrapper for iconv library
